@@ -23,8 +23,3 @@ python3 image_compression.py
 | Визуализация JPEG | `jpeg_visualization.png` | <img src="jpeg_visualization.png" alt="JPEG Visualization" width="200"/> | Пример восстановленного изображения после JPEG-сжатия |
 | График PCA | `pca_metrics_graph.png` | <img src="pca_metrics_graph.png" alt="PCA Metrics" width="200"/> | Зависимость метрик от числа компонент |
 | График JPEG | `jpeg_metrics_graph.png` | <img src="jpeg_metrics_graph.png" alt="JPEG Metrics" width="200"/> | Зависимость метрик от коэффициента качества |
-
-> 💡 При просмотре репозитория на GitHub изображения отображаются прямо в таблице.  
-> Если изображения находятся в другой папке (например, `results/`), просто укажи путь:  
-> `<img src="results/pca_visualization.png" width="200"/>`.
-
